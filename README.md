@@ -1,7 +1,5 @@
-# Aprendizaje-git
-sobre instalar git y sus comandos
 
-# Aprendizaje de Git
+# Aprendizaje de Git 
 Aprendizaje de Git desde 0.
 En este repositorio muestro como voy aprendiendo poco a poco los comandos de git.
 
